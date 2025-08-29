@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o João.
+# Olá! Eu sou o João.
 
 🎯 Desenvolvedor apaixonado por soluções práticas e eficientes  
 📱 Mobile com Flutter | 🖥️ Backend com Node.js/NestJS | 💻 Frontend com Vue  
